@@ -12,6 +12,7 @@ public class For02 {
 			sum = sum + i;  //sum += i;
 		}
 		System.out.println("sum=" + sum);
+		System.out.println();
 	}
 
 }
